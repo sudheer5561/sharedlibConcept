@@ -1,3 +1,3 @@
 // Jenkinsfile
 @Library('saiprisha') _
-printnumber 
+printnumber 'hello'
